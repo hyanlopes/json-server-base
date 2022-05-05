@@ -1,11 +1,49 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "hyanlopess97@gmail.com",
+      "password": "$2a$10$VbeR5VPu7HCP5C2Dq/p3tOghyfFNsgGu5aA28rIm5uhg2ffeIxx4y",
       "id": 1
+    },
+    {
+      "email": "hyanlopes@gmail.com",
+      "password": "$2a$10$X7xD.dd83YURTLUEVSeGKeM6FT.687rdXvSPz7o/62UgRxQ9yxmwK",
+      "id": 2
+    },
+    {
+      "email": "opa@gmail.com",
+      "password": "$2a$10$EWx/G/GpAM7.opraoW/BmO7c84UUS1yBJv8IJk6bpr885KIa7THzm",
+      "id": 3
+    },
+    {
+      "email": "opaa@gmail.com",
+      "password": "$2a$10$oERf0LiheLPVaEBHZ0Y8Ceg2yD/4LOnglrvi9QBi9Ky9n33BWiy0m",
+      "id": 4
     }
+  ],
+  "animais": [
+    {
+      "email": "hyanlopes@gmail.com",
+      "password": "12345",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "hyanlopess@gmail.com",
+      "password": "12345",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "oi",
+      "userId": 4,
+      "id": 3
+    }
+  ],
+  "infosAnimais": [
+    "Levar ao veterinário para fazer as vacinações necessárias é uma importante atitude, pois existem doenças sérias que podem ser transmitidas pelos cães. Assim como as pessoas precisam se prevenir das doenças, os animais também precisam de cuidados para não contraí-las.",
+    "Fazer a tosa dos pelos em excesso também é um importante cuidado para que o animal fique livre do calor excessivo e de parasitas; e com uma boa aparência. Além disso, suas unhas devem ser cortadas, pelo veterinário, se estiverem muito grandes, pois podem machucar o próprio animal, quando ele se coça.",
+    "Dar banho uma vez por semana e escovar os dentes do bichinho, com pasta de dentes especial, é uma forma de cuidar de sua higiene, assim como cuidamos da limpeza do nosso corpo. O animal também gosta de ser bem tratado, de ficar limpo e cheiroso.",
+    "A alimentação dos animais deve ser adequada para sua espécie. Hoje em dia podemos encontrar rações que eliminam o mau cheiro das fezes, rações mais nutritivas, etc. Além disso, animais devem beber água fresca, se possível filtrada."
   ]
 }
